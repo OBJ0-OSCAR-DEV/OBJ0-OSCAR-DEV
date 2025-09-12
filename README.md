@@ -16,3 +16,28 @@ I’m deeply curious about **technology**, how it works on the inside, and the d
 > ⚠️ Currently a student, so don’t expect my contributions to be constant—unless I manage to avoid getting side-tracked 😅
 
 ---
+
+### 🥇 Things I'm Fairly Competent In
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70px" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70px" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70px" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="70px" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70px" />
+
+
+### 🚀 Learning / Exploring
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70px" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70px" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70px" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70px" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70px" />
+
+### 🛠️ Tools I Use
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70px" />&nbsp;&nbsp;
+<img src="Visual Studio Community.png" height="75px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Photopea_logo.svg" height="70px"/>&nbsp;&nbsp;
+
+---
+
+[![OSCAR-DEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=OBJ0-OSCAR-DEV)](https://github.com/anuraghazra/github-readme-stats)
+
