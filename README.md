@@ -22,7 +22,7 @@ I’m deeply curious about **technology**, how it works on the inside, and the d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70px" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70px" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="70px" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70px" />&nbsp;&nbsp;
 
 
 ### 🚀 Learning / Exploring
@@ -30,11 +30,11 @@ I’m deeply curious about **technology**, how it works on the inside, and the d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70px" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70px" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70px" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70px" />&nbsp;&nbsp;
 
 ### 🛠️ Tools I Use
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70px" />&nbsp;&nbsp;
-<img src="Visual Studio Community.png" height="75px"/>
+<img src="Visual Studio Community.png" height="75px"/>&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Photopea_logo.svg" height="70px"/>&nbsp;&nbsp;
 
 ---
