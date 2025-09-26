@@ -40,4 +40,5 @@ I’m deeply curious about **technology**, how it works on the inside, and the d
 ---
 
 [![OSCAR-DEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=OBJ0-OSCAR-DEV)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/OscarDEV_/)
