@@ -4,6 +4,11 @@
 
 ---
 
+### Here's My LeetCode
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/OscarDEV_/)
+
+---
+
 ### About Me!
 I was born on **February 11th, 2007**.  
 
