@@ -13,7 +13,7 @@ My brother, an IT graduate, inspired me to **give coding a try**. The fact that 
 
 I’m deeply curious about **technology**, how it works on the inside, and the different types of systems and contraptions that make our modern world possible. 🖥️💡🔧
 
-> ⚠️ Currently a student, so don’t expect my contributions to be constant—unless I manage to avoid getting sidetracked 😅
+> ⚠️ Currently a student, so don’t expect my contributions to be consistent unless I manage to avoid getting sidetracked 😅
 
 ---
 
